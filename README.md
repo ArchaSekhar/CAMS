@@ -93,6 +93,5 @@ This Python script performs real-time head pose estimation using facial landmark
 17. Exit the loop if the 'Esc' key is pressed (`cv2.waitKey()`).
 
 
-This module will be integrated to produce the whole system which will produce real-time results. This will give you information on whether a class is attentive or not based on the average of each module's probability scores.
 
 
